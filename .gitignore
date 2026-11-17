@@ -1,0 +1,20 @@
+# Dependencies & Build Output
+node_modules/
+dist/
+drizzle/
+*.log
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Internal Docs & AI Agent Rules
+docs/
+AGENTS.md
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
